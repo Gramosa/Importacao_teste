@@ -1,5 +1,5 @@
-from functions import *
-from point import *
+from .functions import *
+from .point import *
 
 def intersection_point(function1, function2):
     """
