@@ -1,3 +1,5 @@
+from .point import *
+
 class Function():#f(x) = ax + b; with a != 0
     """
     This class simulates a polynomial function of degree one,

@@ -1,3 +1,5 @@
+from .functions import *
+
 def check_value(value):
     """
     Check if a value is numeric
